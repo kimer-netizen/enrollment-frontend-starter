@@ -193,6 +193,7 @@ export default function StudentPage() {
                 ))}
               </tbody>
             </table>
+            
           </div>
         </>
       )}
